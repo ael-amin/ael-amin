@@ -18,7 +18,7 @@
 
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ <a href="https://www.linkedin.com/in/EL AMINE ALI">LinkedIn</a>
+├─◈ <a href="https://www.linkedin.com/in/el-amine-ali-0650b1181/">LinkedIn</a>
 ├─◈ <a href="https://x.com/4L1U3">Twitter</a>
 ├─◈ <a href="https://www.instagram.com/ali_el_amine">Instagram</a>
 ├─◈ Discord: ali2ue6
@@ -26,19 +26,19 @@
 
 ┌──┤ 42 PROJECTS ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/Root-07/libft">libft</a>
-├─◈ <a href="https://github.com/Root-07/get_next_line">get_next_line</a>
-├─◈ <a href="https://github.com/Root-07/ft_printf">ft_printf</a>
-├─◈ <a href="https://github.com/Root-07/Born2beRoot">Born2beRoot</a>
-├─◈ <a href="https://github.com/Root-07/minitalk">minitalk</a>
-├─◈ <a href="https://github.com/Root-07/minitalk">fract-ol </a>
-├─◈ <a href="https://github.com/Root-07/push_swap">push_swap</a>
-├─◈ <a href="https://github.com/Root-07/Philosophers">Philosophers</a>
-├─◈ <a href="https://github.com/Root-07/minishell">minishell</a>
-├─◈ <a href="https://github.com/Root-07/minishell">NetPractice</a>
-├─◈ <a href="https://github.com/Root-07/cub3d">Cub3D</a>
-├─◈ <a href="https://github.com/Root-07/CPP_Modules">CPP_Modules</a>
-├─◈ <a href="https://github.com/Root-07khnissi/webserv">Webserv</a>
+├─◈ <a href="https://github.com/ael-amin/libft">libft</a>
+├─◈ <a href="https://github.com/ael-amin/get_next_line">get_next_line</a>
+├─◈ <a href="https://github.com/ael-amin/ft_printf">ft_printf</a>
+├─◈ <a href="https://github.com/ael-amin/Born2beRoot">Born2beRoot</a>
+├─◈ <a href="https://github.com/ael-amin/minitalk">minitalk</a>
+├─◈ <a href="https://github.com/ael-amin/minitalk">fract-ol </a>
+├─◈ <a href="https://github.com/ael-amin/push_swap">push_swap</a>
+├─◈ <a href="https://github.com/ael-amin/Philosophers">Philosophers</a>
+├─◈ <a href="https://github.com/ael-amin/minishell">minishell</a>
+├─◈ <a href="https://github.com/ael-amin/NetPractice">NetPractice</a>
+├─◈ <a href="https://github.com/ael-amin/cub3d">Cub3D</a>
+├─◈ <a href="https://github.com/ael-amin/CPP_Modules">CPP_Modules</a>
+├─◈ <a href="https://github.com/amaitou/Webserv">Webserv</a>
 │
 └───────────────────────────────▰▰▰
 
